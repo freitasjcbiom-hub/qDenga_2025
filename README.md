@@ -1,7 +1,7 @@
 # qDenga_2025
 
 
-# Serotype skewing and immune imprinting shape response to the tetravalent dengue virus Qdenga vaccine #
+# Analysis of DENV Vaccination #
 ############################## Code used in the analysis #####################################
 
 
